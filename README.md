@@ -1,2 +1,2 @@
 # Nur87
-CSE Student Manegement System
+Libery Manegement System
